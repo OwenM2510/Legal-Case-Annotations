@@ -45,7 +45,7 @@ cd legal-case-data-analysis
 Run the Jupyter notebooks or Python scripts provided to replicate the analysis.
 
 Sample Dataset:
-  The sample dataset used in this project is not included in the repository due to confidentiality. However, you can use any structured dataset with similar attributes for testing purposes.
+  The sample dataset used in this project is not included in the repository due to confidentiality. However, you can use any structured dataset with similar attributes for testing purposes. If you'd like to see example of screenshots of the values within the file please check the dissertation.
 
 Contributing:
   Contributions are welcome! If you'd like to improve this project, please feel free to fork the repository and submit a pull request.
